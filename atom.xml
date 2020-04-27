@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>荒山</title>
   
-  <subtitle>在这上写东西有点费劲，我就直接放网易云笔记链接了；下面的笔记链接就是我所有的笔记了。</subtitle>
+  <subtitle>在这上写东西有点费劲，我就直接放网易云笔记链接了</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.huangshanwutong.cn/"/>
