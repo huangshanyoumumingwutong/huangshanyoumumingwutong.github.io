@@ -5,9 +5,9 @@
   <subtitle>在这上写东西有点费劲，我就直接放网易云笔记链接了</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.huangshanwutong.cn/"/>
+  <link href="https://blog.huangshanwutong.cn/"/>
   <updated>2020-04-19T01:42:31.489Z</updated>
-  <id>http://blog.huangshanwutong.cn/</id>
+  <id>https://blog.huangshanwutong.cn/</id>
   
   <author>
     <name>荒山有木名梧桐</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>做一个简单的 hexo 博客</title>
-    <link href="http://blog.huangshanwutong.cn/2020/04/19/%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://blog.huangshanwutong.cn/2020/04/19/%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://blog.huangshanwutong.cn/2020/04/19/%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.huangshanwutong.cn/2020/04/19/%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-04-19T01:37:37.000Z</published>
     <updated>2020-04-19T01:42:31.489Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.huangshanwutong.cn/2020/04/15/hello-world/"/>
-    <id>http://blog.huangshanwutong.cn/2020/04/15/hello-world/</id>
+    <link href="https://blog.huangshanwutong.cn/2020/04/15/hello-world/"/>
+    <id>https://blog.huangshanwutong.cn/2020/04/15/hello-world/</id>
     <published>2020-04-15T05:20:46.211Z</published>
     <updated>2020-04-15T05:20:46.212Z</updated>
     
