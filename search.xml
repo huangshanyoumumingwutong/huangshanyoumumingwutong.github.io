@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>做一个简单的 hexo 博客</title>
+    <url>/2020/04/19/%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>思路：<br>    用 hexo 模板搭建博客，挂到 Github 上，只需要一个打代码的终端和 Github账号就可以。</p>
+<h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>Windows 10系统下</p>
+<h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><p>1.安装 node.js<br>在<a href="https://nodejs.org/zh-cn/" title="" target="">node.js官网</a>下一个<br>和普通软件安装步骤一样<img src="/img/demoblog_1.png" class="" title="alt text"></p>
+<h3 id="-2"><a href="#-2" class="headerlink" title=""></a></h3><p>2.安装 Git<br>在<a href="https://npm.taobao.org/mirrors/git-for-windows/v2.26.1.windows.1/" title="" target="">阿里镜像</a>中找个合适的，我用的这个<br>这是个安装包，安装就行，想改路径可以改一下<br>其他的在笔记里写，我就不在这上写了</p>
+<a href="http://note.youdao.com/noteshare?id=7438db80e9453597d42305a41281bd01&sub=36DB1BE574E24BEBA959CB8696B9AFA5" title="" target="">笔记链接</a>
+
+
+
+
+]]></content>
+  </entry>
+</search>
